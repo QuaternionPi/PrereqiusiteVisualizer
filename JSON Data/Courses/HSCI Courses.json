@@ -1,0 +1,1232 @@
+{
+    ".data":{
+        "version": 0.1,
+        "file title": "HSCI"
+    },
+    "hsci100": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Human Biology"
+    },
+    "hsci120": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Introduction to Human Sexuality and Sexual Behavior"
+    },
+    "hsci130": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Foundations of Health Science"
+    },
+    "hsci160": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Global Perspectives on Health"
+    },
+    "hsci180": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Drugs and Society"
+    },
+    "hsci204": {
+        "prerequisites": [
+            [
+                "hsci100<c->"
+            ],
+            [
+                "hsci130<c->"
+            ],
+            [
+                "bisc101<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Perspectives on Human Health and the Environment"
+    },
+    "hsci206": {
+        "prerequisites": [
+            [
+                "hsci130<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "The Economics of Health and Health Care"
+    },
+    "hsci210": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Special Topics in Health Sciences"
+    },
+    "hsci211": {
+        "prerequisites": [
+            [
+                "hsci100<c->"
+            ],
+            [
+                "hsci130<c->"
+            ],
+            [
+                "bisc101<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Perspectives on Cancer, Cardiovascular, and Metabolic Diseases"
+    },
+    "hsci212": {
+        "prerequisites": [
+            [
+                "hsci100<c->"
+            ],
+            [
+                "hsci130<c->"
+            ],
+            [
+                "bisc101<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Perspectives on Infectious and Immunological Diseases"
+    },
+    "hsci214": {
+        "prerequisites": [
+            [
+                "hsci100<c->"
+            ],
+            [
+                "hsci130<c->"
+            ],
+            [
+                "bisc101<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Perspectives on Mental Health and Illness"
+    },
+    "hsci216": {
+        "prerequisites": [
+            [
+                "hsci100<c->"
+            ],
+            [
+                "bisc101<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Ecological Determinants of Human Growth, Development and Health"
+    },
+    "hsci305": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "The Canadian Health System"
+    },
+    "hsci307": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Research Methods in Health Sciences"
+    },
+    "hsci310": {
+        "prerequisites": [
+            [
+                "hsci130<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Health Economic Evaluation"
+    },
+    "hsci312": {
+        "prerequisites": [
+            [
+                "hsci130<c->"
+            ],
+            [
+                "bpk140<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Health Promotion: Individuals and Communities"
+    },
+    "hsci319w": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Applied Health Ethics"
+    },
+    "hsci321": {
+        "prerequisites": [
+            [
+                "mbb231<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Human Pathophysiology"
+    },
+    "hsci323": {
+        "prerequisites": [
+            [
+                "mbb231<c->",
+                "chem282<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Principles of Pharmacology and Toxicology"
+    },
+    "hsci324": {
+        "prerequisites": [
+            [
+                "bisc202<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Human Population Genetics and Evolution"
+    },
+    "hsci326": {
+        "prerequisites": [
+            [
+                "mbb231<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to the Immune System"
+    },
+    "hsci330": {
+        "prerequisites": [
+            [
+                "stat302<c->"
+            ],
+            [
+                "stat305<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": ""
+    },
+    "hsci333": {
+        "prerequisites": [
+            [
+                "hsci100<c->"
+            ],
+            [
+                "bisc100<c->"
+            ],
+            [
+                "bisc101<c->"
+            ],
+            [
+                "bisc102<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Exploratory Strategies in Epidemiology"
+    },
+    "hsci338": {
+        "prerequisites": [
+            [
+                "mbb222<c->"
+            ]
+        ],
+        "corequisites": [
+            "bisc303"
+        ],
+        "title": "Virology"
+    },
+    "hsci340": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Social Determinants of Health"
+    },
+    "hsci350": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Co-op Practicum I"
+    },
+    "hsci351": {
+        "prerequisites": [
+            [
+                "hsci350<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Co-op Practicum II"
+    },
+    "hsci373": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Special Topics in Health Sciences"
+    },
+    "hsci403": {
+        "prerequisites": [
+            [
+                "hsci330<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Health and the Built Environment"
+    },
+    "hsci406": {
+        "prerequisites": [
+            [
+                "hsci305<c->"
+            ],
+            [
+                "hsci340<c->"
+            ],
+            [
+                "hsci319w<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Global Perspectives in Indigenous Health"
+    },
+    "hsci408": {
+        "prerequisites": [
+            [
+                "hsci330<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Plagues, Pollutants and Poverty: The Origins and Evolution of Public Health"
+    },
+    "hsci410": {
+        "prerequisites": [
+            [
+                "stat302<c->"
+            ],
+            [
+                "stat305<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Exploratory Data Analysis"
+    },
+    "hsci412": {
+        "prerequisites": [
+            [
+                "hsci312<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Health Communication"
+    },
+    "hsci416": {
+        "prerequisites": [
+            [
+                "hsci307<c->",
+                "stat302<c->"
+            ],
+            [
+                "hsci330<c->",
+                "stat302<c->"
+            ],
+            [
+                "hsci307<c->",
+                "stat305<c->"
+            ],
+            [
+                "hsci330<c->",
+                "stat305<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Health Services Research"
+    },
+    "hsci418": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Priority Setting in Health Care: Health Economics and Ethics in Practice"
+    },
+    "hsci427": {
+        "prerequisites": [
+            [
+                "mbb326<c->"
+            ],
+            [
+                "hsci326<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Immune Responses in Health and Disease"
+    },
+    "hsci431": {
+        "prerequisites": [
+            [
+                "hsci212<c->"
+            ],
+            [
+                "hsci330<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "The Global HIV/AIDS Epidemic"
+    },
+    "hsci432": {
+        "prerequisites": [
+            [
+                "hsci330<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Seminar in Epidemiology"
+    },
+    "hsci440": {
+        "prerequisites": [
+            [
+                "hsci321<c->",
+                "bisc357<c->"
+            ],
+            [
+                "hsci321<c->",
+                "mbb308<c->"
+            ],
+            [
+                "hsci321<c->",
+                "mbb309w<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Cell Pathophysiology Laboratory"
+    },
+    "hsci441": {
+        "prerequisites": [
+            [
+                "hsci338<c->",
+                "bisc303<c->"
+            ],
+            [
+                "hsci338<c->",
+                "bisc357<c->"
+            ],
+            [
+                "hsci338<c->",
+                "mbb308<c->"
+            ],
+            [
+                "hsci338<c->",
+                "mbb309w<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Virology Laboratory"
+    },
+    "hsci442": {
+        "prerequisites": [
+            [
+                "mbb326<c->",
+                "bisc303<c->"
+            ],
+            [
+                "mbb326<c->",
+                "bisc357<c->"
+            ],
+            [
+                "mbb326<c->",
+                "mbb308<c->"
+            ],
+            [
+                "mbb326<c->",
+                "mbb309w<c->"
+            ],
+            [
+                "hsci326<c->",
+                "bisc303<c->"
+            ],
+            [
+                "hsci326<c->",
+                "bisc357<c->"
+            ],
+            [
+                "hsci326<c->",
+                "mbb308<c->"
+            ],
+            [
+                "hsci326<c->",
+                "mbb309w<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Immunology Laboratory"
+    },
+    "hsci449": {
+        "prerequisites": [
+            [
+                "hsci312<c->",
+                "hsci319<c->"
+            ],
+            [
+                "hsci312<c->",
+                "hsci327<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Community and Health Service"
+    },
+    "hsci450": {
+        "prerequisites": [
+            [
+                "hsci351<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Co-op Practicum III"
+    },
+    "hsci451": {
+        "prerequisites": [
+            [
+                "hsci450<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Co-op Practicum IV"
+    },
+    "hsci452": {
+        "prerequisites": [
+            [
+                "hsci451<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Co-op Practicum V"
+    },
+    "hsci462": {
+        "prerequisites": [
+            [
+                "hsci216<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Seminar in Developmental Origins of Health and Disease"
+    },
+    "hsci471": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Special Topics in Health Sciences I"
+    },
+    "hsci475": {
+        "prerequisites": [
+            [
+                "mbb331<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Seminar in Molecular Mechanisms of Epigenetics"
+    },
+    "hsci476": {
+        "prerequisites": [
+            [
+                "hsci323<c->"
+            ],
+            [
+                "mbb331<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Seminar in Molecular Basis of Drug Action and Environmental Exposure"
+    },
+    "hsci478": {
+        "prerequisites": [
+            [
+                "hsci330<c->"
+            ],
+            [
+                "mbb331<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Seminar in Molecular Epidemiology of Infectious Diseases"
+    },
+    "hsci481": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Senior Seminar in Social Health Science"
+    },
+    "hsci482": {
+        "prerequisites": [
+            [
+                "hsci326<c->"
+            ],
+            [
+                "hsci338<c->"
+            ],
+            [
+                "mbb326<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Senior Seminar in Infectious Diseases"
+    },
+    "hsci483": {
+        "prerequisites": [
+            [
+                "hsci204<c->"
+            ],
+            [
+                "hsci330<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Senior Seminar in Environmental Health"
+    },
+    "hsci484": {
+        "prerequisites": [
+            [
+                "hsci330<c->",
+                "stat302<c->"
+            ],
+            [
+                "hsci330<c->",
+                "stat305<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Senior Seminar in Population Health Research"
+    },
+    "hsci485": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Senior Seminar in Mental Health and Addictions"
+    },
+    "hsci486": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Senior Seminar in Global Health"
+    },
+    "hsci488": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Directed Studies in Health Sciences"
+    },
+    "hsci489": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Directed Research in Health Sciences"
+    },
+    "hsci490": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Research Proposal"
+    },
+    "hsci491": {
+        "prerequisites": [
+            [
+                "hsci490<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Independent Research"
+    },
+    "hsci492": {
+        "prerequisites": [
+            [
+                "hsci491<c->"
+            ],
+            [
+                "hsci493<c->"
+            ],
+            [
+                "hsci494<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Honours Research Thesis"
+    },
+    "hsci493": {
+        "prerequisites": [
+            [
+                "hsci490<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Extended Independent Research"
+    },
+    "hsci494": {
+        "prerequisites": [
+            [
+                "hsci490<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Independent Laboratory Research"
+    },
+    "hsci495": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Applied Health Science Project"
+    },
+    "hsci496": {
+        "prerequisites": [
+            [
+                "hsci160<c->",
+                "hsci330<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Special Topics in Experiential Global Health Learning"
+    },
+    "bisc101": {
+        "prerequisites": [
+            [
+                "bio12<c>",
+                "chem12<c>"
+            ],
+            [
+                "bisc100<c->"
+            ],
+            [
+                "bisc113<c+>",
+                "chem12<c>"
+            ],
+            [
+                "hsci100<c+>",
+                "chem12<c>"
+            ],
+            [
+                "bio12<c>",
+                "chem111<c->"
+            ],
+            [
+                "bisc100<c->",
+                "chem111<c->"
+            ],
+            [
+                "bisc113<c+>",
+                "chem111<c->"
+            ],
+            [
+                "hsci100<c+>",
+                "chem111<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "General Biology"
+    },
+    "bpk140": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Contemporary Health Issues"
+    },
+    "mbb231": {
+        "prerequisites": [
+            [
+                "mbb222<c->",
+                "chem282<c->"
+            ],
+            [
+                "bisc101<c->",
+                "chem282<c->"
+            ],
+            [
+                "chem281<c->",
+                "chem282<c->"
+            ],
+            [
+                "mbb222<c->",
+                "chem283<c->"
+            ],
+            [
+                "bisc101<c->",
+                "chem283<c->"
+            ],
+            [
+                "chem281<c->",
+                "chem283<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Cellular Biology and Biochemistry"
+    },
+    "chem282": {
+        "prerequisites": [
+            [
+                "chem281<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Organic Chemistry II"
+    },
+    "bisc202": {
+        "prerequisites": [
+            [
+                "bisc101<c->",
+                "bisc102<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Genetics BISC"
+    },
+    "stat302": {
+        "prerequisites": [
+            [
+                "stat201<c->"
+            ],
+            [
+                "stat203<c->"
+            ],
+            [
+                "stat205<c->"
+            ],
+            [
+                "stat270<c->"
+            ],
+            [
+                "buec232<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Analysis of Experimental and Observational Data"
+    },
+    "stat305": {
+        "prerequisites": [
+            [
+                "stat201<c->"
+            ],
+            [
+                "stat203<c->"
+            ],
+            [
+                "stat205<c->"
+            ],
+            [
+                "stat270<c->"
+            ],
+            [
+                "buec232<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Biostatistical Methods for Health Sciences"
+    },
+    "bisc100": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Introduction to Biology"
+    },
+    "bisc102": {
+        "prerequisites": [
+            [
+                "bio12<c>"
+            ],
+            [
+                "bisc100<c->"
+            ],
+            [
+                "bisc113<c+>"
+            ],
+            [
+                "hsci100<c+>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "General Biology"
+    },
+    "mbb222": {
+        "prerequisites": [
+            [
+                "chem281<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Molecular Biology and Biochemistry"
+    },
+    "bisc303": {
+        "prerequisites": [
+            [
+                "bisc102<c->"
+            ],
+            [
+                "mbb231<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Microbiology"
+    },
+    "mbb326": {
+        "prerequisites": [
+            [
+                "mbb231<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to the Immune System"
+    },
+    "bisc357": {
+        "prerequisites": [
+            [
+                "bisc202<c->",
+                "mbb222<c->",
+                "mbb231<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Genetic Engineering"
+    },
+    "mbb308": {
+        "prerequisites": [
+            [
+                "mbb331<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Molecular Biology Laboratory"
+    },
+    "mbb309w": {
+        "prerequisites": [
+            [
+                "mbb231<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Biochemistry Laboratory"
+    },
+    "hsci319": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Applied Health Ethics"
+    },
+    "hsci327": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Global Health Ethics"
+    },
+    "mbb331": {
+        "prerequisites": [
+            [
+                "mbb231<c>",
+                "bisc202<c>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Molecular Biology"
+    },
+    "bio12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Seconday School Biology"
+    },
+    "chem12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Seconday School Chemistry"
+    },
+    "bisc113": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Biology in Everyday Life"
+    },
+    "chem111": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Introductory Chemistry and Laboratory"
+    },
+    "chem281": {
+        "prerequisites": [
+            [
+                "chem121<c->"
+            ]
+        ],
+        "corequisites": [
+            "chem122"
+        ],
+        "title": "Organic Chemistry and Laboratory I"
+    },
+    "chem283": {
+        "prerequisites": [
+            [
+                "chem281<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Organic Chemistry IIb"
+    },
+    "stat201": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Statistics for the Life Sciences"
+    },
+    "stat203": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Introduction to Statistics for the Social Sciences"
+    },
+    "stat205": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Introduction to Statistics"
+    },
+    "stat270": {
+        "prerequisites": [
+            [
+                "math152<c->"
+            ],
+            [
+                "math155<c->"
+            ],
+            [
+                "math158<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Probability and Statistics"
+    },
+    "buec232": {
+        "prerequisites": [
+            [
+                "math150<c->"
+            ],
+            [
+                "math151<c->"
+            ],
+            [
+                "math154<c->"
+            ],
+            [
+                "math157<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Data and Decisions I"
+    },
+    "chem121": {
+        "prerequisites": [
+            [
+                "chem12<c>"
+            ],
+            [
+                "chem109<c->"
+            ],
+            [
+                "chem111<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "General Chemistry and Laboratory I"
+    },
+    "chem122": {
+        "prerequisites": [
+            [
+                "chem120<c->"
+            ],
+            [
+                "chem121<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "General Chemistry and Laboratory II"
+    },
+    "math152": {
+        "prerequisites": [
+            [
+                "math150<c->"
+            ],
+            [
+                "math151<c->"
+            ],
+            [
+                "math154<b>"
+            ],
+            [
+                "math157<b>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus II"
+    },
+    "math155": {
+        "prerequisites": [
+            [
+                "math150<c->"
+            ],
+            [
+                "math151<c->"
+            ],
+            [
+                "math154<c->"
+            ],
+            [
+                "math157<b>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Mathematics for the Life Sciences II"
+    },
+    "math158": {
+        "prerequisites": [
+            [
+                "math150<c->"
+            ],
+            [
+                "math151<c->"
+            ],
+            [
+                "math154<c->"
+            ],
+            [
+                "math157<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus II for the Social Sciences"
+    },
+    "math150": {
+        "prerequisites": [
+            [
+                "math12<b+>"
+            ],
+            [
+                "math100<b->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus I with Review"
+    },
+    "math151": {
+        "prerequisites": [
+            [
+                "math12<a>"
+            ],
+            [
+                "math100<b>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus I"
+    },
+    "math154": {
+        "prerequisites": [
+            [
+                "math12<b>"
+            ],
+            [
+                "math100<c>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Mathematics for the Life Sciences I"
+    },
+    "math157": {
+        "prerequisites": [
+            [
+                "math12<b>"
+            ],
+            [
+                "math100<c>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus I for the Social Sciences"
+    },
+    "chem109": {
+        "prerequisites": [
+            [
+                "math12<c->"
+            ],
+            [
+                "math100<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Chemistry for Health Careers"
+    },
+    "chem120": {
+        "prerequisites": [
+            [
+                "chem12<c>"
+            ],
+            [
+                "chem110<c->"
+            ],
+            [
+                "chem111<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "General Chemistry I"
+    },
+    "math12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Seconday School Mathematics"
+    },
+    "math100": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Precalculus"
+    },
+    "chem110": {
+        "prerequisites": [
+            [
+                "math12<c->"
+            ],
+            [
+                "math100<c->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introductory Chemistry"
+    }
+}

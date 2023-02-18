@@ -1,0 +1,48 @@
+{
+    ".data":{
+        "version": 0.1,
+        "file title": "Demo Grades"
+    },
+    "cmpt105w": {
+        "grade": "B+"
+    },
+    "cmpt120": {
+        "grade": "A-"
+    },
+    "cmpt125": {
+        "grade": "B+"
+    },
+    "cmpt225": {
+        "grade": "B+"
+    },
+    "math12": {
+        "grade": "A"
+    },
+    "math151": {
+        "grade": "C+"
+    },
+    "math152": {
+        "grade": "B+"
+    },
+    "math232": {
+        "grade": "C-"
+    },
+    "macm101": {
+        "grade": "B+"
+    },
+    "pol100": {
+        "grade": "C-"
+    },
+    "pol151": {
+        "grade": "B-"
+    },
+    "phys12":{
+        "grade":"B+"
+    },
+    "phys101":{
+        "grade":"C+"
+    },
+    "phys102":{
+        "grade":"B+"
+    }
+}

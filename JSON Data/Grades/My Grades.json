@@ -1,0 +1,48 @@
+{
+    ".data":{
+        "version": 0.1,
+        "file title": "My grades"
+    },
+    "cmpt105w": {
+        "grade": "B+"
+    },
+    "cmpt120": {
+        "grade": "A-"
+    },
+    "cmpt125": {
+        "grade": "B+"
+    },
+    "cmpt225": {
+        "grade": "B+"
+    },
+    "cmpt295": {
+        "grade": "B+"
+    },
+    "math12": {
+        "grade": "A"
+    },
+    "math151": {
+        "grade": "C+"
+    },
+    "math152": {
+        "grade": "B+"
+    },
+    "macm101": {
+        "grade": "B+"
+    },
+    "stat270": {
+        "grade": "B+"
+    },
+    "phil100w": {
+        "grade": "B+"
+    },
+    "phil120w": {
+        "grade": "B+"
+    },
+    "plan100": {
+        "grade": "B+"
+    },
+    "pol151": {
+        "grade": "B-"
+    }
+}

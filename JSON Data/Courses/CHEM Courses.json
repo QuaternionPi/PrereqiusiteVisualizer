@@ -1,0 +1,701 @@
+{
+    ".data":{
+        "version": 0.1,
+        "file title": "CHEM"
+    },
+    "chem110": {
+        "prerequisites": [
+            [
+                "MATH12<C>"
+            ],
+            [
+                "MATH100<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem111": {
+        "prerequisites": [
+            [
+                "MATH12<C>"
+            ],
+            [
+                "MATH100<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem120": {
+        "prerequisites": [
+            [
+                "CHEM12<C>"
+            ],
+            [
+                "CHEM110<C->"
+            ],
+            [
+                "CHEM111<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem122": {
+        "prerequisites": [
+            [
+                "CHEM120<C->"
+            ],
+            [
+                "CHEM121<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem125": {
+        "prerequisites": [
+            [
+                "CHEM12<C>"
+            ],
+            [
+                "CHEM109<C->"
+            ],
+            [
+                "CHEM111<C->"
+            ]
+        ],
+        "corequisites": [
+            "CHEM120"
+        ]
+    },
+    "chem126": {
+        "prerequisites": [
+            [
+                "CHEM121<C->"
+            ]
+        ],
+        "corequisites": [
+            "CHEM122"
+        ]
+    },
+    "chem210": {
+        "prerequisites": [
+            [
+                "CHEM122<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem216": {
+        "prerequisites": [
+            [
+                "CHEM122<C->",
+                "CHEM126<C->"
+            ]
+        ],
+        "corequisites": [
+            "CHEM210"
+        ]
+    },
+    "chem266": {
+        "prerequisites": [
+            [
+                "CHEM260<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem280": {
+        "prerequisites": [
+            [
+                "CHEM120<C->"
+            ],
+            [
+                "CHEM121<C->"
+            ]
+        ],
+        "corequisites": [
+            "CHEM122"
+        ]
+    },
+    "chem282": {
+        "prerequisites": [
+            [
+                "CHEM281<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem283": {
+        "prerequisites": [
+            [
+                "CHEM281<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem284": {
+        "prerequisites": [
+            [
+                "CHEM282<C+>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem285": {
+        "prerequisites": [
+            [
+                "CHEM120<C->",
+                "CHEM125<C->"
+            ],
+            [
+                "CHEM121<C->"
+            ]
+        ],
+        "corequisites": [
+            "CHEM122",
+            "CHEM280"
+        ]
+    },
+    "chem286": {
+        "prerequisites": [
+            [
+                "CHEM281<C->"
+            ]
+        ],
+        "corequisites": [
+            "CHEM282",
+            "CHEM283"
+        ]
+    },
+    "chem306": {
+        "prerequisites": [
+            [
+                "MATH154<C->",
+                "MATH155<C->",
+                "CHEM120<C->",
+                "PHYS120<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem307": {
+        "prerequisites": [
+            [
+                "CHEM306<P>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem316": {
+        "prerequisites": [
+            [
+                "CHEM215<C->",
+                "CHEM260<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem332": {
+        "prerequisites": [
+            [
+                "CHEM230<C->",
+                "CHEM236W<C->",
+                "CHEM260<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem336": {
+        "prerequisites": [
+            [
+                "CHEM236W<C->"
+            ]
+        ],
+        "corequisites": [
+            "CHEM332"
+        ]
+    },
+    "chem360": {
+        "prerequisites": [
+            [
+                "CHEM260<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem381": {
+        "prerequisites": [
+            [
+                "CHEM380<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem406": {
+        "prerequisites": [
+            [
+                "CHEM307<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem407": {
+        "prerequisites": [
+            [
+                "CHEM406<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem408": {
+        "prerequisites": [
+            [
+                "CHEM407<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem433": {
+        "prerequisites": [
+            [
+                "CHEM332<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem440": {
+        "prerequisites": [
+            [
+                "CHEM340<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem442": {
+        "prerequisites": [
+            [
+                "CHEM282<C->"
+            ],
+            [
+                "CHEM283<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem459": {
+        "prerequisites": [
+            [
+                "CHEM380<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem462": {
+        "prerequisites": [
+            [
+                "CHEM260<C->"
+            ],
+            [
+                "PHYS285<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem481": {
+        "prerequisites": [
+            [
+                "CHEM381<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem482": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "chem483": {
+        "prerequisites": [
+            [
+                "CHEM481<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem484": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "math12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "math100": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "chem12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "chem121": {
+        "prerequisites": [
+            [
+                "CHEM12<C>"
+            ],
+            [
+                "CHEM109<C->"
+            ],
+            [
+                "CHEM111<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem260": {
+        "prerequisites": [
+            [
+                "CHEM122<C->",
+                "MATH152<C->",
+                "PHYS121<C->",
+                "MATH232<C->"
+            ],
+            [
+                "CHEM122<C->",
+                "MATH152<C->",
+                "PHYS126<C->",
+                "MATH232<C->"
+            ],
+            [
+                "CHEM122<C->",
+                "MATH152<C->",
+                "PHYS141<C->",
+                "MATH232<C->"
+            ],
+            [
+                "CHEM122<C->",
+                "MATH152<C->",
+                "PHYS102<B>",
+                "MATH232<C->"
+            ],
+            [
+                "CHEM122<C->",
+                "MATH152<C->",
+                "PHYS121<C->",
+                "MATH240<C->"
+            ],
+            [
+                "CHEM122<C->",
+                "MATH152<C->",
+                "PHYS126<C->",
+                "MATH240<C->"
+            ],
+            [
+                "CHEM122<C->",
+                "MATH152<C->",
+                "PHYS141<C->",
+                "MATH240<C->"
+            ],
+            [
+                "CHEM122<C->",
+                "MATH152<C->",
+                "PHYS102<B>",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem281": {
+        "prerequisites": [
+            [
+                "CHEM121<C->"
+            ]
+        ],
+        "corequisites": [
+            "CHEM122"
+        ]
+    },
+    "math154": {
+        "prerequisites": [
+            [
+                "MATH12<B>"
+            ],
+            [
+                "MATH100<C>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "math155": {
+        "prerequisites": [
+            [
+                "MATH154<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH150<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "phys120": {
+        "prerequisites": [
+            [
+                "PHYS12<C->"
+            ],
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem109": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [
+                "MATH100<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem215": {
+        "prerequisites": [
+            [
+                "CHEM122<C->",
+                "CHEM126<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem230": {
+        "prerequisites": [
+            [
+                "CHEM122<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem236w": {
+        "prerequisites": [
+            [
+                "CHEM126<C->"
+            ]
+        ],
+        "corequisites": [
+            "CHEM230"
+        ]
+    },
+    "chem380": {
+        "prerequisites": [
+            [
+                "CHEM283<C->",
+                "CHEM286<C->"
+            ],
+            [
+                "CHEM284<C->",
+                "CHEM286<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "chem340": {
+        "prerequisites": [
+            [
+                "CHEM230<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "phys285": {
+        "prerequisites": [
+            [
+                "MATH232<C->"
+            ],
+            [
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "math232": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<B>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "math240": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<B>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "math152": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<B>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "phys102": {
+        "prerequisites": [
+            [
+                "MATH150<C->",
+                "PHYS101<C->"
+            ],
+            [
+                "MATH151<C->",
+                "PHYS101<C->"
+            ],
+            [
+                "MATH154<B>",
+                "PHYS101<C->"
+            ],
+            [
+                "MATH150<C->",
+                "PHYS120<C->"
+            ],
+            [
+                "MATH151<C->",
+                "PHYS120<C->"
+            ],
+            [
+                "MATH154<B>",
+                "PHYS120<C->"
+            ],
+            [
+                "MATH150<C->",
+                "PHYS125<C->"
+            ],
+            [
+                "MATH151<C->",
+                "PHYS125<C->"
+            ],
+            [
+                "MATH154<B>",
+                "PHYS125<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "phys121": {
+        "prerequisites": [
+            [
+                "PHYS120<C->"
+            ],
+            [
+                "PHYS125<C->"
+            ]
+        ],
+        "corequisites": [
+            "MATH152"
+        ]
+    },
+    "phys126": {
+        "prerequisites": [
+            [
+                "PHYS125<C->"
+            ]
+        ],
+        "corequisites": [
+            "MATH152"
+        ]
+    },
+    "phys141": {
+        "prerequisites": [
+            [
+                "PHYS120<C->"
+            ],
+            [
+                "PHYS125<C->"
+            ]
+        ],
+        "corequisites": [
+            "MATH152"
+        ]
+    },
+    "math150": {
+        "prerequisites": [
+            [
+                "MATH12<B+>"
+            ],
+            [
+                "MATH100<B->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "math151": {
+        "prerequisites": [
+            [
+                "MATH12<B+>"
+            ],
+            [
+                "MATH100<B->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "phys125": {
+        "prerequisites": [
+            [
+                "PHYS12<B+>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "phys101": {
+        "prerequisites": [
+            [
+                "PHYS12<B+>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "phys12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    }
+}

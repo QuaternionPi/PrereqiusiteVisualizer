@@ -1,0 +1,1205 @@
+{
+    ".data":{
+        "version": 0.1,
+        "file title": "CMPT"
+    },
+    "cmpt105w": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Process, Form, and Convention in Professional Genres"
+    },
+    "cmpt120": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computing Science and Programming I"
+    },
+    "cmpt125": {
+        "prerequisites": [
+            [
+                "CMPT120<C->"
+            ],
+            [
+                "CMPT130<C->"
+            ]
+        ],
+        "corequisites": ["CMPT127"],
+        "title": "Introduction to Computing Science and Programming II"
+    },
+    "cmpt127": {
+        "prerequisites": [
+            [
+                "CMPT120<C->"
+            ],
+            [
+                "CMPT130<C->"
+            ]
+        ],
+        "corequisites": ["CMPT125"],
+        "title": "Computing Laboratory"
+    },
+    "cmpt130": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [
+                "MATH100<C->"
+            ],
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<C->"
+            ],
+            [
+                "MATH157<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computer Programming I"
+    },
+    "cmpt135": {
+        "prerequisites": [
+            [
+                "CMPT130<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computer Programming II"
+    },
+    "cmpt213": {
+        "prerequisites": [
+            [
+                "CMPT225<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Object Oriented Design in Java"
+    },
+    "cmpt218": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Special Topics in Computing Science"
+    },
+    "cmpt225": {
+        "prerequisites": [
+            [
+                "MACM101<C->",
+                "CMPT125<C->"
+            ],
+            [
+                "MACM101<C->",
+                "CMPT129<C->"
+            ],
+            [
+                "MACM101<C->",
+                "CMPT135<C->"
+            ],
+            [
+                "ENSC251<C->",
+                "ENSC252<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Data Structures and Programming"
+    },
+    "cmpt276": {
+        "prerequisites": [
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "MACM101<C->",
+                "MATH150<C->"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->",
+                "MATH150<C->"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "MACM101<C->",
+                "MATH151<C->"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->",
+                "MATH151<C->"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "MACM101<C->",
+                "MATH154<B+>"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->",
+                "MATH154<B+>"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "MACM101<C->",
+                "MATH157<B+>"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->",
+                "MATH157<B+>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Software Engineering"
+    },
+    "cmpt295": {
+        "prerequisites": [
+            [
+                "MACM101<C->",
+                "CMPT125<C->"
+            ],
+            [
+                "MACM101<C->",
+                "CMPT135<C->"
+            ],
+            [
+                "MATH151<C->",
+                "CMPT102<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computer Systems"
+    },
+    "cmpt300": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "CMPT295<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "ENSC254<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Operating Systems I"
+    },
+    "cmpt305": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "MACM101<C->",
+                "STAT270<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->",
+                "STAT270<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Computer Simulation and Modelling"
+    },
+    "cmpt307": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "MACM201<C->",
+                "MATH150<C->",
+                "MATH232<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MACM201<C->",
+                "MATH150<C->",
+                "MATH232<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MACM201<C->",
+                "MATH151<C->",
+                "MATH232<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MACM201<C->",
+                "MATH151<C->",
+                "MATH240<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MACM201<C->",
+                "MATH154<B+>",
+                "MATH232<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MACM201<C->",
+                "MATH154<B+>",
+                "MATH240<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MACM201<C->",
+                "MATH157<B+>",
+                "MATH232<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MACM201<C->",
+                "MATH157<B+>",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Data Structures and Algorithms"
+    },
+    "cmpt310": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "MACM101<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Artificial Intelligence"
+    },
+    "cmpt318": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "SPECIAL<Approval of program chair>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Special Topics in Computing Science"
+    },
+    "cmpt320": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Social Implications - Computerized Society"
+    },
+    "cmpt353": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "STAT101<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "STAT270<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "ENSC280<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MSE210<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Computational Data Science"
+    },
+    "cmpt354": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "MACM101<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Database Systems I"
+    },
+    "cmpt361": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "MATH232<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computer Graphics"
+    },
+    "cmpt363": {
+        "prerequisites": [
+            [
+                "CMPT225<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "User Interface Design"
+    },
+    "cmpt371": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "MATH150<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MATH151<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "MATH154<B+>"
+            ],
+            [
+                "CMPT225<C->",
+                "MATH157<B+>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Data Communications and Networking"
+    },
+    "cmpt376w": {
+        "prerequisites": [
+            [
+                "CMPT105W<C->",
+                "CMPT275<C->"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT276<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Professional Responsibility and Technical Writing"
+    },
+    "cmpt383": {
+        "prerequisites": [
+            [
+                "CMPT225<C->",
+                "MACM101<C->"
+            ],
+            [
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Comparative Programming Languages"
+    },
+    "cmpt405": {
+        "prerequisites": [
+            [
+                "CMPT307<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Design and Analysis of Computing Algorithms"
+    },
+    "cmpt415": {
+        "prerequisites": [
+            [
+                "SPECIAL<Permission of the instructor>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Special Research Projects"
+    },
+    "cmpt416": {
+        "prerequisites": [
+            [
+                "SPECIAL<Permission of the department>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Special Research Projects"
+    },
+    "cmpt419": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Special Topics in Artificial Intelligence"
+    },
+    "cmpt426": {
+        "prerequisites": [
+            [
+                "CMPT275<C->",
+                "CMPT276<C->",
+                "SPECIAL<CGPA of at least 2.50>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Practicum I"
+    },
+    "cmpt427": {
+        "prerequisites": [
+            [
+                "CMPT426<D>",
+                "SPECIAL<CGPA of at least 2.50>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Practicum II"
+    },
+    "cmpt428": {
+        "prerequisites": [
+            [
+                "CMPT427<D>",
+                "SPECIAL<CGPA of at least 2.50>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Practicum III"
+    },
+    "cmpt429": {
+        "prerequisites": [
+            [
+                "CMPT428<D>",
+                "SPECIAL<CGPA of at least 2.50>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Practicum IV"
+    },
+    "cmpt430": {
+        "prerequisites": [
+            [
+                "CMPT429<D>",
+                "SPECIAL<CGPA of at least 2.50>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Practicum V"
+    },
+    "cmpt431": {
+        "prerequisites": [
+            [
+                "CMPT300<C->",
+                "CMPT371<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Distributed Systems"
+    },
+    "cmpt433": {
+        "prerequisites": [
+            [
+                "CMPT295<C->",
+                "CMPT300<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Embedded Systems"
+    },
+    "cmpt454": {
+        "prerequisites": [
+            [
+                "CMPT300<C->",
+                "CMPT354<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Database Systems II"
+    },
+    "cmpt459": {
+        "prerequisites": [
+            [
+                "CMPT354<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Special Topics in Database Systems"
+    },
+    "cmpt461": {
+        "prerequisites": [
+            [
+                "CMPT361<C->",
+                "MACM201<C->",
+                "MACM316<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Computational Photography and Image Manipulation"
+    },
+    "cmpt466": {
+        "prerequisites": [
+            [
+                "CMPT361<C->",
+                "MACM316<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Animation"
+    },
+    "cmpt473": {
+        "prerequisites": [
+            [
+                "CMPT275<C->",
+                "CMPT276<C->",
+                "SPECIAL<15 upper division CMPT units>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Software Testing, Reliability and Security"
+    },
+    "cmpt475": {
+        "prerequisites": [
+            [
+                "CMPT275<C->",
+                "CMPT276<C->",
+                "MACM201<C->",
+                "SPECIAL<15 upper division CMPT units>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Requirements Engineering"
+    },
+    "cmpt494": {
+        "prerequisites": [
+            [
+                "SPECIAL<15 upper division CMPT units>",
+                "SPECIAL<Successful Capstone project proposal>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Software Systems Program Capstone Project I"
+    },
+    "cmpt495": {
+        "prerequisites": [
+            [
+                "CMPT494<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Software Systems Program Capstone Project II"
+    },
+    "cmpt497": {
+        "prerequisites": [
+            [
+                "SPECIAL<Successful Capstone project proposal>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Dual Degree Program Capstone Project"
+    },
+    "math100": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Precalculus"
+    },
+    "math150": {
+        "prerequisites": [
+            [
+                "MATH12<B+>"
+            ],
+            [
+                "MATH100<B->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus I with Review"
+    },
+    "math151": {
+        "prerequisites": [
+            [
+                "MATH12<A>"
+            ],
+            [
+                "MATH100<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus I"
+    },
+    "math152": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<B>"
+            ],
+            [
+                "MATH157<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus II"
+    },
+    "math154": {
+        "prerequisites": [
+            [
+                "MATH12<B>"
+            ],
+            [
+                "MATH100<C>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus I for the Biological Sciences"
+    },
+    "math157": {
+        "prerequisites": [
+            [
+                "MATH12<B>"
+            ],
+            [
+                "MATH100<C>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Mathematics for the Life Sciences II"
+    },
+    "macm101": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [   
+                "MATH100<C->"
+            ],
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<C->"
+            ],
+            [
+                "MATH157<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Discrete Mathematics I"
+    },
+    "ensc251": {
+        "prerequisites": [
+            [
+                "CMPT128<C->"
+            ],
+            [
+                "CMPT135<C->"
+            ],
+            [
+                "CMPT125<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Software Design and Analysis for Engineers"
+    },
+    "ensc252": {
+        "prerequisites": [
+            [
+                "CMPT128<C->"
+            ],
+            [
+                "CMPT135<C->"
+            ],
+            [
+                "CMPT125<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Fundamentals of Digital Logic & Design"
+    },
+    "cmpt129": {
+        "prerequisites": [
+            [
+                "CMPT102<C->"
+            ],
+            [
+                "CMPT120<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computing Science and Programming for Mathematics and Statistics"
+    },
+    "cmpt102": {
+        "prerequisites": [
+            [
+                "MATH152<C->"
+            ],
+            [
+                "MATH155<C->"
+            ],
+            [
+                "MATH158<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Scientific Computer Programming"
+    },
+    "ensc254": {
+        "prerequisites": [
+            [
+                "ENSC251<C->",
+                "ENSC252<C->"
+            ],
+            [
+                "CMPT150<C->",
+                "CMPT225<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computer Organization"
+    },
+    "stat270": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [
+            "MATH152",
+            "MATH155",
+            "MATH158"
+        ],
+        "title": "Introduction to Probability and Statistics"
+    },
+    "math240": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MACM101<C->"
+            ],
+            [
+                "MATH154<B>"
+            ],
+            [
+                "MATH157<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Algebra I: Linear Algebra"
+    },
+    "math232": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MACM101<C->"
+            ],
+            [
+                "MATH154<B>"
+            ],
+            [
+                "MATH157<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Applied Linear Algebra"
+    },
+    "ensc280": {
+        "prerequisites": [
+            [
+                "PHYS121<C->",
+                "ENSC120<C->",
+                "MATH251<C->",
+                "MATH232<C->"
+            ],
+            [
+                "PHYS141<C->",
+                "MATH251<C->",
+                "MATH232<C->"
+            ],
+            [
+                "PHYS121<C->",
+                "ENSC120<C->",
+                "MATH251<C->",
+                "MATH240<C->"
+            ],
+            [
+                "PHYS141<C->",
+                "MATH251<C->",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Engineering Measurement and Data Analysis"
+    },
+    "mse210": {
+        "prerequisites": [
+            [
+                "PHYS141<C->",
+                "MATH150<C->"
+            ],
+            [
+                "PHYS141<C->",
+                "MATH151<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Engineering Measurement and Data Analysis"
+    },
+    "stat101": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Introduction to Statistics"
+    },
+    "cmpt275": {
+        "prerequisites": [
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "MACM101<C->",
+                "MATH150<C->"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->",
+                "MATH150<C->"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "MACM101<C->",
+                "MATH151<C->"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->",
+                "MATH151<C->"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "MACM101<C->",
+                "MATH154<B+>"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->",
+                "MATH154<B+>"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "MACM101<C->",
+                "MATH157<B+>"
+            ],
+            [
+                "CMPT105W<C->",
+                "CMPT225<C->",
+                "ENSC251<C->",
+                "ENSC252<C->",
+                "MATH157<B+>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Software Engineering"
+    },
+    "macm201": {
+        "prerequisites": [
+            [
+                "MACM101<C->"
+            ],
+            [
+                "ENSC251<C->",
+                "MATH232<C->"
+            ],
+            [
+                "ENSC251<C->",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Discrete Mathematics II"
+    },
+    "macm316": {
+        "prerequisites": [
+            [
+                "MATH152<C->",
+                "MATH232<C->"
+            ],
+            [
+                "MATH152<C->",
+                "MATH240<C->"
+            ],
+            [
+                "MATH155<C->",
+                "MATH232<C->"
+            ],
+            [
+                "MATH155<C->",
+                "MATH240<C->"
+            ],
+            [
+                "MATH158<C->",
+                "MATH232<C->"
+            ],
+            [
+                "MATH158<C->",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Numerical Analysis I"
+    },
+    "math12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Secondary School Mathematics"
+    },
+    "cmpt128": {
+        "prerequisites": [
+            [
+                "MATH100<C->"
+            ],
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<C->"
+            ],
+            [
+                "MATH157<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computing Science and Programming for Engineers"
+    },
+    "math155": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<C->"
+            ],
+            [
+                "MATH157<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Mathematics for the Life Sciences II"
+    },
+    "math158": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<C->"
+            ],
+            [
+                "MATH157<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus II for the Social Sciences"
+    },
+    "cmpt150": {
+        "prerequisites": [
+            [
+                "MACM101<C->",
+                "CMPT120<C->"
+            ],
+            [
+                "MACM101<C->",
+                "CMPT130<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computer Design"
+    },
+    "phys121": {
+        "prerequisites": [
+            [
+                "PHYS120<C->"
+            ],
+            [
+                "PHYS125<C->"
+            ],
+            [
+                "PHYS140<C->"
+            ],
+            [
+                "PHYS101<B>"
+            ]
+        ],
+        "corequisites": [
+            "MATH152",
+            "MATH155"
+        ],
+        "title": "Optics, Electricity and Magnetism"
+    },
+    "phys141": {
+        "prerequisites": [
+            [
+                "PHYS120<C->"
+            ],
+            [
+                "PHYS125<C->"
+            ],
+            [
+                "PHYS140<C->"
+            ],
+            [
+                "PHYS101<B>"
+            ]
+        ],
+        "corequisites": [
+            "MATH152",
+            "MATH155"
+        ],
+        "title": "Studio Physics - Optics, Electricity and Magnetism"
+    },
+    "ensc120": {
+        "prerequisites": [
+            [
+                "MATH12<C->",
+                "PHYS12<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Electronics Laboratory Instruments Operation and Measurement Techniques"
+    },
+    "math251": {
+        "prerequisites": [
+            [
+                "MATH152<C->"
+            ],
+            [
+                "MATH155<B>"
+            ],
+            [
+                "MATH158<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus III"
+    },
+    "phys120": {
+        "prerequisites": [
+            [
+                "PHYS12<C->"
+            ],
+            [
+                "PHYS100<C->"
+            ]
+        ],
+        "corequisites": [
+            "MATH151"
+        ],
+        "title": "Mechanics and Modern Physics"
+    },
+    "phys125": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [
+            "MATH151"
+        ],
+        "title": "Mechanics and Special Relativity"
+    },
+    "phys140": {
+        "prerequisites": [
+            [
+                "PHYS12<C->"
+            ],
+            [
+                "PHYS100<C->"
+            ]
+        ],
+        "corequisites": [
+            "MATH151"
+        ],
+        "title": "Studio Physics - Mechanics and Modern Physics"
+    },
+    "phys101": {
+        "prerequisites": [
+            [
+                "PHYS12<C->"
+            ],
+            [
+                "PHYS100<C->"
+            ]
+        ],
+        "corequisites": [
+            "MATH151"
+        ],
+        "title": "Physics for the Life Sciences I"
+    },
+    "phys12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Secondary School Physics"
+    },
+    "phys100": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [
+                "MATH100<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Physics"
+    }
+}

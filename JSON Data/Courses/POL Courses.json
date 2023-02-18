@@ -1,0 +1,275 @@
+{
+    ".data":{
+        "version": 0.1,
+        "file title": "POL"
+    },
+    "pol100": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol121": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol132": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol141": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol151": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol200w": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol201": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [
+            "POL200W"
+        ]
+    },
+    "pol210": {
+        "prerequisites": [
+            [
+                "POL100<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol221": {
+        "prerequisites": [
+            [
+                "POL100<C->"
+            ],
+            [
+                "POL151<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol222": {
+        "prerequisites": [
+            [
+                "POL100<C->"
+            ],
+            [
+                "POL151<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol244": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol253": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol311": {
+        "prerequisites": [
+            [
+                "POL210<C->",
+                "6<POL><LEVEL100>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol315": {
+        "prerequisites": [
+            [
+                "POL201<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol322": {
+        "prerequisites": [
+            [
+                "6<POL><LEVEL100>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol325": {
+        "prerequisites": [
+            [
+                "6<POL><LEVEL100>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol340": {
+        "prerequisites": [
+            [
+                "6<POL><LEVEL100>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol344": {
+        "prerequisites": [
+            [
+                "6<POL><LEVEL100>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol346": {
+        "prerequisites": [
+            [
+                "6<POL><LEVEL100>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol348": {
+        "prerequisites": [
+            [
+                "POL141<C->",
+                "6<POL><LEVEL100>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol349": {
+        "prerequisites": [
+            [
+                "6<POL><LEVEL100>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol350": {
+        "prerequisites": [
+            [
+                "30"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol351": {
+        "prerequisites": [
+            [
+                "6<POL><LEVEL100>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol411": {
+        "prerequisites": [
+            [
+                "POL210<C->"
+            ],
+            [
+                "POL312<C->"
+            ],
+            [
+                "POL313<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol421w": {
+        "prerequisites": [
+            [
+                "8<POL><LEVEL300>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol432": {
+        "prerequisites": [
+            [
+                "POL141<C->",
+                "8<POL><LEVEL300>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol438": {
+        "prerequisites": [
+            [
+                "8<POL><LEVEL300>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol449": {
+        "prerequisites": [
+            [
+                "8<POL><LEVEL300>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol472": {
+        "prerequisites": [
+            [
+                "8<POL><LEVEL300>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol496": {
+        "prerequisites": [
+            [
+                "90",
+                "SPECIAL<Aplication to the undergraduate chair>"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol498": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol499": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "pol312": {
+        "prerequisites": [
+            [
+                "POL210<C->"
+            ]
+        ],
+        "corequisites": []
+    },
+    "pol313": {
+        "prerequisites": [
+            [
+                "POL210<C->",
+                "POL312<C->"
+            ]
+        ],
+        "corequisites": []
+    }
+}

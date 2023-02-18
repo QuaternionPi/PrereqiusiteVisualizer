@@ -1,0 +1,53 @@
+{
+    ".data":{
+        "version": 0.1,
+        "file title": "Test"
+    },
+    "A100":{
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "B100":{
+        "prerequisites": [
+            []
+        ],
+        "corequisites": []
+    },
+    "A200":{
+        "prerequisites": [
+            ["A100<C->"],
+            ["B100<C->"]
+        ],
+        "corequisites": []
+    },
+    "B200":{
+        "prerequisites": [
+            ["A100<C->"],
+            ["B100<C->"]
+        ],
+        "corequisites": []
+    },
+    "A300":{
+        "prerequisites": [
+            ["A200<C->"],
+            ["B200<C->"]
+        ],
+        "corequisites": []
+    },
+    "B300":{
+        "prerequisites": [
+            ["A200<C->"],
+            ["B200<C->"]
+        ],
+        "corequisites": []
+    },
+    "A400":{
+        "prerequisites": [
+            ["A300<C->",
+            "B300<C->"]
+        ],
+        "corequisites": []
+    }
+}

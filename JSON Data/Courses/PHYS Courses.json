@@ -1,0 +1,1418 @@
+{
+    ".data":{
+        "version": 0.1,
+        "file title": "PHYS"
+    },
+    "phys100": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [
+                "MATH100<C->"
+            ],
+            [
+                "PHYS11<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Physics"
+    },
+    "phys101": {
+        "prerequisites": [
+            [
+                "PHYS12<C->",
+                "MATH150<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH150<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH151<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH151<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH150<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH150<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH151<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH151<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH150<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH150<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH151<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH151<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH154<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH154<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH157<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH157<C->",
+                "BISC102<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Physics for the Life Sciences I"
+    },
+    "phys102": {
+        "prerequisites": [
+            [
+                "PHYS101<C->",
+                "MATH150<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH150<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH150<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH150<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH151<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH151<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH151<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH151<C->",
+                "BISC100<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH150<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH150<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH150<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH150<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH151<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH151<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH151<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH151<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH154<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH157<C->",
+                "BISC101<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH150<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH150<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH150<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH150<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH151<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH151<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH151<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH151<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH154<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH154<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH154<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH154<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS101<C->",
+                "MATH157<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH157<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH157<C->",
+                "BISC102<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH157<C->",
+                "BISC102<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Physics for the Life Sciences II"
+    },
+    "phys120": {
+        "prerequisites": [
+            [
+                "PHYS132<C->",
+                "MATH150<C->"
+            ],
+            [
+                "PHYS132<C->",
+                "MATH151<C->"
+            ],
+            [
+                "PHYS132<C->",
+                "MATH154<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Mechanics and Modern Physics"
+    },
+    "phys121": {
+        "prerequisites": [
+            [
+                "PHYS120<C->",
+                "MATH152<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH152<C->"
+            ],
+            [
+                "phys140<C->",
+                "MATH152<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH155<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH155<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH155<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Optics, Electricity and Magnetism"
+    },
+    "phys125": {
+        "prerequisites": [
+            [
+            "MATH151<C->"
+            ]
+        ],
+        "corequisites": [
+            "PHYS132"
+        ],
+        "title": "Mechanics and Special Relativity"
+    },
+    "phys126": {
+        "prerequisites": [
+            [
+                "PHYS133<C->",
+                "PHYS125<C->",
+                "MATH152<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Electricity, Magnetism, and Light"
+    },
+    "phys132": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Physics Laboratory I"
+    },
+    "phys133": {
+        "prerequisites": [
+            [
+                "PHYS132<C->"
+            ],
+            [
+                "PHYS140<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Physics Laboratory II"
+    },
+    "phys140": {
+        "prerequisites": [
+            [
+                "PHYS12<C->",
+                "MATH150<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH150<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH151<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH151<C->"
+            ],
+            [
+                "PHYS12<C->",
+                "MATH154<C->"
+            ],
+            [
+                "PHYS100<C->",
+                "MATH154<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Studio Physics - Mechanics and Modern Physics"
+    },
+    "phys190": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Intro. To Astronomy (B-Sci for non-science)"
+    },
+    "phys201": {
+        "prerequisites": [
+            [
+                "PHYS121<C->"
+            ],
+            [
+                "PHYS126<C->"
+            ],
+            [
+                "PHYS141<C->"
+            ],
+            [
+                "PHYS102<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Undergraduate Seminar"
+    },
+    "phys211": {
+        "prerequisites": [
+            [
+                "MATH251<C->",
+                "MATH260<C->",
+                "PHYS255<C->",
+                "MATH232<C->"
+            ],
+            [
+                "MATH251<C->",
+                "MATH260<C->",
+                "PHYS255<C->",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Intermediate Mechanics"
+    },
+    "phys233": {
+        "prerequisites": [
+            [
+                "PHYS133<C->"
+            ],
+            [
+                "PHYS141<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Physics Laboratory III"
+    },
+    "phys234": {
+        "prerequisites": [
+            [
+                "PHYS233<C->",
+                "PHYS255<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Physics Laboratory IV"
+    },
+    "phys255": {
+        "prerequisites": [
+            [
+                "MATH251<C->",
+                "MATH232<C->",
+                "PHYS126<C->"
+            ],
+            [
+                "MATH251<C->",
+                "MATH240<C->",
+                "PHYS126<C->"
+            ],
+            [
+                "MATH251<C->",
+                "MATH232<C->",
+                "PHYS121<C->"
+            ],
+            [
+                "MATH251<C->",
+                "MATH240<C->",
+                "PHYS121<C->"
+            ],
+            [
+                "MATH251<C->",
+                "MATH232<C->",
+                "PHYS141<C->"
+            ],
+            [
+                "MATH251<C->",
+                "MATH240<C->",
+                "PHYS141<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Vibrations and Waves"
+    },
+    "phys285": {
+        "prerequisites": [
+            [
+                "MATH232<C->"
+            ],
+            [
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Quantum I"
+    },
+    "phys321": {
+        "prerequisites": [
+            [
+                "MATH260<C->",
+                "MATH252<C->",
+                "PHYS121<C->"
+            ],
+            [
+                "MATH260<C->",
+                "MATH254<C->",
+                "PHYS121<C->"
+            ],
+            [
+                "MATH260<C->",
+                "MATH252<C->",
+                "PHYS126<C->"
+            ],
+            [
+                "MATH260<C->",
+                "MATH254<C->",
+                "PHYS126<C->"
+            ],
+            [
+                "MATH260<C->",
+                "MATH252<C->",
+                "PHYS141<C->"
+            ],
+            [
+                "MATH260<C->",
+                "MATH254<C->",
+                "PHYS141<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Intermediate Electricity and Magnetism"
+    },
+    "phys326": {
+        "prerequisites": [
+            [
+                "PHYS234<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Electronics and Instrumentation"
+    },
+    "phys332w": {
+        "prerequisites": [
+            [
+                "PHYS233<C->",
+                "PHYS285<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Advanced Laboratory I"
+    },
+    "phys335": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Practicum I"
+    },
+    "phys336": {
+        "prerequisites": [
+            [
+                "PHYS335<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Practicum II"
+    },
+    "phys344": {
+        "prerequisites": [
+            [
+                "MATH251<C->",
+                "PHYS121<C->"
+            ],
+            [
+                "MATH251<C->",
+                "PHYS126<C->"
+            ],
+            [
+                "MATH251<C->",
+                "PHYS141<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Thermal Physics"
+    },
+    "phys347": {
+        "prerequisites": [
+            [
+                "PHYS102<C->",
+                "MATH152<C->"
+            ],
+            [
+                "PHYS121<C->",
+                "MATH152<C->"
+            ],
+            [
+                "PHYS126<C->",
+                "MATH152<C->"
+            ],
+            [
+                "PHYS141<C->",
+                "MATH152<C->"
+            ],
+            [
+                "PHYS102<C->",
+                "MATH155<C->"
+            ],
+            [
+                "PHYS121<C->",
+                "MATH155<C->"
+            ],
+            [
+                "PHYS126<C->",
+                "MATH155<C->"
+            ],
+            [
+                "PHYS141<C->",
+                "MATH155<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Biological Physics"
+    },
+    "phys365": {
+        "prerequisites": [
+            [
+                "PHYS285<C->",
+                "PHYS321<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Semiconductor Device Physics"
+    },
+    "phys384": {
+        "prerequisites": [
+            [
+                "MATH260<C->",
+                "PHYS255<C->",
+                "PHYS211<C->",
+                "MATH252<C->"
+            ],
+            [
+                "MATH260<C->",
+                "PHYS255<C->",
+                "PHYS211<C->",
+                "MATH254<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Methods of Theoretical Physics"
+    },
+    "phys385": {
+        "prerequisites": [
+            [
+                "MATH260<C->",
+                "PHYS255<C->",
+                "PHYS285<C->",
+                "MATH252<C->"
+            ],
+            [
+                "MATH260<C->",
+                "PHYS255<C->",
+                "PHYS285<C->",
+                "MATH254<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Quantum II"
+    },
+    "phys390": {
+        "prerequisites": [
+            [
+                "PHYS211<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Astrophysics"
+    },
+    "phys391": {
+        "prerequisites": [
+            [
+                "PHYS233<C->",
+                "CMPT120<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Observational Astrophysics"
+    },
+    "phys395": {
+        "prerequisites": [
+            [
+                "MATH260<C->",
+                "PHYS255<C->",
+                "CMPT120<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Computational Physics"
+    },
+    "phys413": {
+        "prerequisites": [
+            [
+                "MATH252<C->",
+                "MATH260<C->",
+                "PHYS211<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Advanced Mechanics"
+    },
+    "phys415": {
+        "prerequisites": [
+            [
+                "PHYS385<C->",
+                "PHYS384<C->"
+            ],
+            [
+                "PHYS385<C->",
+                "MATH314<C->",
+                "MATH419<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Quantum III"
+    },
+    "phys416": {
+        "prerequisites": [
+            [
+                "PHYS385<C->",
+                "PHYS384<C->"
+            ],
+            [
+                "PHYS385<C->",
+                "MATH314<C->",
+                "MATH419<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Quantum Information Science"
+    },
+    "phys421": {
+        "prerequisites": [
+            [
+                "PHYS321<C->",
+                "PHYS255<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Electromagnetic Waves"
+    },
+    "phys431": {
+        "prerequisites": [
+            [
+                "PHYS385<C->",
+                "PHYS332W<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Advanced Physics Laboratory II"
+    },
+    "phys432": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Undergraduate Honours Thesis"
+    },
+    "phys435": {
+        "prerequisites": [
+            [
+                "PHYS336<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Practicum III"
+    },
+    "phys436": {
+        "prerequisites": [
+            [
+                "PHYS435<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Practicum VI"
+    },
+    "phys437": {
+        "prerequisites": [
+            [
+                "PHYS436<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Practicum V"
+    },
+    "phys445": {
+        "prerequisites": [
+            [
+                "PHYS344<C->",
+                "PHYS385<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Statistical Physics"
+    },
+    "phys455": {
+        "prerequisites": [
+            [
+                "PHYS321<C->",
+                "PHYS385<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Modern Optics"
+    },
+    "phys465": {
+        "prerequisites": [
+            [
+                "PHYS385<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Solid State Physics"
+    },
+    "phys485": {
+        "prerequisites": [
+            [
+                "PHYS385<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Particle Physics"
+    },
+    "phys490": {
+        "prerequisites": [
+            [
+                "PHYS313<C->",
+                "PHYS384<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "General Relativity and Gravitation"
+    },
+    "math12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Secondary School Mathematics"
+    },
+    "math100": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Precalculus"
+    },
+    "phys11": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Secondary School Mathematics"
+    },
+    "phys12": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Secondary School Physics"
+    },
+    "math150": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [
+                "MATH100<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus I with Review"
+    },
+    "bisc100": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Introduction to Biology"
+    },
+    "bisc101": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "General Biology"
+    },
+    "bisc102": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "General Biology"
+    },
+    "math151": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [
+                "MATH100<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus I"
+    },
+    "math154": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [
+                "MATH100<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Mathematics for the Life Sciences I"
+    },
+    "math157": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [
+                "MATH100<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus I for the Social Sciences"
+    },
+    "math152": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<B>"
+            ],
+            [
+                "MATH157<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus II"
+    },
+    "math155": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<c->"
+            ],
+            [
+                "MATH157<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Mathematics for the Life Sciences II"
+    },
+    "math158": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<C->"
+            ],
+            [
+                "MATH157<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus II for the Social Sciences"
+    },
+    "phys141": {
+        "prerequisites": [
+            [
+                "PHYS120<C->",
+                "MATH152<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH152<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH152<C->"
+            ],
+            [
+                "PHYS120<C->",
+                "MATH155<C->"
+            ],
+            [
+                "PHYS125<C->",
+                "MATH155<C->"
+            ],
+            [
+                "PHYS140<C->",
+                "MATH155<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Studio Physics - Optics, Electricity and Magnetism"
+    },
+    "math251": {
+        "prerequisites": [
+            [
+                "MATH152<C->"
+            ],
+            [
+                "MATH155<C->"
+            ],
+            [
+                "MATH158<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Calculus III"
+    },
+    "math232": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MACM101<C->"
+            ],
+            [
+                "MATH154<B>"
+            ],
+            [
+                "MATH157<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Applied Linear Algebra"
+    },
+    "math260": {
+        "prerequisites": [
+            [
+                "MATH152<C->",
+                "MATH232<C->"
+            ],
+            [
+                "MATH155<B>",
+                "MATH232<C->"
+            ],
+            [
+                "MATH158<B>",
+                "MATH232<C->"
+            ],
+            [
+                "MATH152<C->",
+                "MATH240<C->"
+            ],
+            [
+                "MATH155<B>",
+                "MATH240<C->"
+            ],
+            [
+                "MATH158<B>",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Ordinary Differential Equations"
+    },
+    "math240": {
+        "prerequisites": [
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MACM101<C->"
+            ],
+            [
+                "MATH154<B>"
+            ],
+            [
+                "MATH157<B>"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Algebra I: Linear Algebra"
+    },
+    "math252": {
+        "prerequisites": [
+            [
+                "MATH251<C->",
+                "MATH232<C->"
+            ],
+            [
+                "MATH251<C->",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Vector Calculus"
+    },
+    "math254": {
+        "prerequisites": [
+            [
+                "MATH251<C->",
+                "MATH232<C->"
+            ],
+            [
+                "MATH251<C->",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Vector and Complex Analysis for Applied Sciences"
+    },
+    "cmpt120": {
+        "prerequisites": [
+            []
+        ],
+        "corequisites": [],
+        "title": "Introduction to Computing Science and Programming I"
+    },
+    "math314": {
+        "prerequisites": [
+            [
+                "MATH260<C->",
+                "MATH251<B+>"
+            ],
+            [
+                "MATH260<C->",
+                "MATH252<C->"
+            ],
+            [
+                "MATH260<C->",
+                "MATH254<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Fourier Methods and Partial Differential Equations"
+    },
+    "math419": {
+        "prerequisites": [
+            [
+                "MATH232<C->",
+                "MATH314<C->"
+            ],
+            [
+                "MATH232<C->",
+                "MATH320<C->"
+            ],
+            [
+                "MATH232<C->",
+                "MATH322<C->"
+            ],
+            [
+                "MATH232<C->",
+                "PHYS384<C->"
+            ],
+            [
+                "MATH240<C->",
+                "MATH314<C->"
+            ],
+            [
+                "MATH240<C->",
+                "MATH320<C->"
+            ],
+            [
+                "MATH240<C->",
+                "MATH322<C->"
+            ],
+            [
+                "MATH240<C->",
+                "PHYS384<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Linear Analysis"
+    },
+    "phys313": {
+        "prerequisites": [
+            [
+                "PHYS121<C->",
+                "MATH232<C->"
+            ],
+            [
+                "PHYS126<C->",
+                "MATH232<C->"
+            ],
+            [
+                "PHYS141<C->",
+                "MATH232<C->"
+            ],
+            [
+                "PHYS121<C->",
+                "MATH240<C->"
+            ],
+            [
+                "PHYS126<C->",
+                "MATH240<C->"
+            ],
+            [
+                "PHYS141<C->",
+                "MATH240<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Special Relativity"
+    },
+    "macm101": {
+        "prerequisites": [
+            [
+                "MATH12<C->"
+            ],
+            [
+                "MATH100<C->"
+            ],
+            [
+                "MATH150<C->"
+            ],
+            [
+                "MATH151<C->"
+            ],
+            [
+                "MATH154<C->"
+            ],
+            [
+                "MATH157<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Discrete Mathematics I"
+    },
+    "math320": {
+        "prerequisites": [
+            [
+                "MATH242<C->",
+                "MATH251<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Analysis II"
+    },
+    "math322": {
+        "prerequisites": [
+            [
+                "MATH251<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Complex Variables"
+    },
+    "math242": {
+        "prerequisites": [
+            [
+                "MATH152<C->"
+            ],
+            [
+                "MATH155<C->"
+            ],
+            [
+                "MATH158<C->"
+            ]
+        ],
+        "corequisites": [],
+        "title": "Introduction to Analysis I"
+    }
+}
